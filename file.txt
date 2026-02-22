@@ -1,0 +1,4 @@
+Name: Daniru
+Date: 20260222
+File: file.txt
+Purpose: Learn
